@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "d668fe8146c1b318",
+    "id": "8cf73bc426fcb01a",
     "type": "split",
     "children": [
       {
-        "id": "ebb9d70cfc867557",
+        "id": "e492df03f01ecdb0",
         "type": "tabs",
         "children": [
           {
-            "id": "f15b112b372859ab",
+            "id": "acea573806138a4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0fc848a15fbfe2f3",
+    "id": "b515201ff1f3687f",
     "type": "split",
     "children": [
       {
-        "id": "ad33b92278801ef2",
+        "id": "3032711660e91189",
         "type": "tabs",
         "children": [
           {
-            "id": "c50a732595983e34",
+            "id": "b7839a051435561a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "dbd6e2a3537bee11",
+            "id": "f5d8feeae7cc1e2d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "e7fbb94ed9581150",
+            "id": "040ab3cacd4ca2ad",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "0180ca7a4ba06823",
+    "id": "64d7cbf04f6d92ba",
     "type": "split",
     "children": [
       {
-        "id": "54afc09546cc2721",
+        "id": "ebd644f514938689",
         "type": "tabs",
         "children": [
           {
-            "id": "92ff03d0975155b0",
+            "id": "5e5115678cce0b1e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "bfb8551f44ac532d",
+            "id": "985acddcf0f66378",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "454d5ebc87f022f8",
+            "id": "0c532ac93d4f269e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +131,17 @@
             }
           },
           {
-            "id": "888e80b237dce776",
+            "id": "3f42394c0b025072",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           }
         ]
@@ -168,15 +161,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f15b112b372859ab",
-  "lastOpenFiles": [
-    "README.md~",
-    "markdown/01-combined-rtl-ltr.md",
-    "markdown/01-combined-rtl-ltr~",
-    "markdown/01-combined-rtl-ltr",
-    "markdown",
-    "docs/README.md",
-    "CNAME",
-    "README.md"
-  ]
+  "active": "acea573806138a4d",
+  "lastOpenFiles": []
 }
