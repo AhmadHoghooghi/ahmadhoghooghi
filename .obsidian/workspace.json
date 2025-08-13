@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -168,8 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f15b112b372859ab",
+  "active": "c50a732595983e34",
   "lastOpenFiles": [
+    "CNAME",
+    "README.md",
     "docs/README.md"
   ]
 }
