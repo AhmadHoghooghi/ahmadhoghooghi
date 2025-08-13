@@ -168,10 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c50a732595983e34",
+  "active": "f15b112b372859ab",
   "lastOpenFiles": [
+    "README.md~",
+    "markdown/01-combined-rtl-ltr.md",
+    "markdown/01-combined-rtl-ltr~",
+    "markdown/01-combined-rtl-ltr",
+    "markdown",
+    "docs/README.md",
     "CNAME",
-    "README.md",
-    "docs/README.md"
+    "README.md"
   ]
 }
