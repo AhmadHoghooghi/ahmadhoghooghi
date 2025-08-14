@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e492df03f01ecdb0",
+        "id": "e6c2d75b7609c55a",
         "type": "tabs",
         "children": [
           {
-            "id": "acea573806138a4d",
+            "id": "75f7b9efb65f0d61",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "data-engineering/spark/00-Questions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "00-Questions"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 342.5
   },
   "right": {
     "id": "64d7cbf04f6d92ba",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled 2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Untitled 2"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled 2.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Untitled 2"
             }
           },
           {
@@ -136,19 +142,51 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled 2.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled 2"
+            }
+          },
+          {
+            "id": "2c59d009afffaec1",
+            "type": "leaf",
+            "state": {
+              "type": "annotations-outline",
+              "state": {},
+              "icon": "message-square",
+              "title": "Enhanced Annotations"
+            }
+          },
+          {
+            "id": "d8380e86890a7a0a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "5a7a10c37fead786",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 466.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -158,9 +196,28 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "acea573806138a4d",
-  "lastOpenFiles": []
+  "active": "75f7b9efb65f0d61",
+  "lastOpenFiles": [
+    "data-engineering/spark/08-compare agg() functions on KeyValueGroupedDataset.md",
+    "data-engineering/spark/07-efficient shuffle with Aggregator.md",
+    "data-engineering/spark/06-Aggregator.md",
+    "data-engineering/spark/05-Concept of group.md",
+    "data-engineering/spark/00-Questions.md",
+    "2025-08-14.md",
+    "data-engineering/spark/04-group by options again.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "data-engineering/spark/03-RelationalGroupedDataset vs KeyValueGroupedDataset.md",
+    "data-engineering/spark/02-group by Options for Structured Streaming.md",
+    "data-engineering/spark/01-group by Options.md",
+    "data-engineering/spark/README.md",
+    "data-engineering/README.md",
+    "README.md"
+  ]
 }
