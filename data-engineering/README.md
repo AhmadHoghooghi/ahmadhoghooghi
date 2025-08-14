@@ -1,4 +1,3 @@
 # data-engineering
 
-* [book](./book/README.md)
-* [qa-with-ai](./qa-with-ai/README.md)
+* [spark](./spark/README.md)
