@@ -199,6 +199,8 @@
   },
   "active": "75f7b9efb65f0d61",
   "lastOpenFiles": [
+    "data-engineering/qa-with-ai/README.md",
+    "data-engineering/qa-with-ai",
     "data-engineering/spark/README.md",
     "data-engineering/spark/QA with AI/00-Questions.md",
     "data-engineering/spark/qa-with-ai/README.md",
@@ -230,7 +232,6 @@
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "data-engineering/spark/QA with AI/03-RelationalGroupedDataset vs KeyValueGroupedDataset.md",
-    "data-engineering/spark/QA with AI/02-group by Options for Structured Streaming.md"
+    "data-engineering/spark/QA with AI/03-RelationalGroupedDataset vs KeyValueGroupedDataset.md"
   ]
 }
