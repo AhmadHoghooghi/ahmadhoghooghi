@@ -11,14 +11,10 @@
             "id": "75f7b9efb65f0d61",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data-engineering/spark/00-Questions.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "00-Questions"
+              "title": "New tab"
             }
           }
         ]
@@ -203,21 +199,38 @@
   },
   "active": "75f7b9efb65f0d61",
   "lastOpenFiles": [
-    "data-engineering/spark/08-compare agg() functions on KeyValueGroupedDataset.md",
-    "data-engineering/spark/07-efficient shuffle with Aggregator.md",
-    "data-engineering/spark/06-Aggregator.md",
-    "data-engineering/spark/05-Concept of group.md",
-    "data-engineering/spark/00-Questions.md",
+    "data-engineering/spark/QA with AI/00-Questions.md",
+    "data-engineering/spark/qa-with-ai/README.md",
+    "data-engineering/spark/qa-with-ai/09-options for agg() function on KeyValueGroupedDataSet.md",
+    "data-engineering/spark/qa-with-ai/08-compare agg() functions on KeyValueGroupedDataset.md",
+    "data-engineering/spark/qa-with-ai/07-efficient shuffle with Aggregator.md",
+    "data-engineering/spark/qa-with-ai/06-Aggregator.md",
+    "data-engineering/spark/qa-with-ai/05-Concept of group.md",
+    "data-engineering/spark/qa-with-ai/04-group by options again.md",
+    "data-engineering/spark/qa-with-ai/03-RelationalGroupedDataset vs KeyValueGroupedDataset.md",
+    "data-engineering/spark/qa-with-ai/02-group by Options for Structured Streaming.md",
+    "data-engineering/spark/qa-with-ai/01-group by Options.md",
+    "data-engineering/spark/qa-with-ai/00-Questions.md",
+    "data-engineering/spark/qa-with-ai",
+    "data-engineering/spark/QA with AI/README.md",
+    "data-engineering/spark/book/spark-in-action/README.md",
+    "data-engineering/spark/book/README.md",
+    "data-engineering/spark/book/spark-in-action",
+    "data-engineering/spark/book",
+    "data-engineering/spark/book.md",
+    "data-engineering/spark/QA with AI",
+    "data-engineering/spark/QA with AI/09-options for agg() function on KeyValueGroupedDataSet.md",
+    "data-engineering/spark/QA with AI/06-Aggregator.md",
+    "data-engineering/spark/README.md",
+    "data-engineering/spark/QA with AI/08-compare agg() functions on KeyValueGroupedDataset.md",
+    "data-engineering/spark/QA with AI/07-efficient shuffle with Aggregator.md",
+    "data-engineering/spark/QA with AI/05-Concept of group.md",
+    "data-engineering/spark/QA with AI/04-group by options again.md",
     "2025-08-14.md",
-    "data-engineering/spark/04-group by options again.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "data-engineering/spark/03-RelationalGroupedDataset vs KeyValueGroupedDataset.md",
-    "data-engineering/spark/02-group by Options for Structured Streaming.md",
-    "data-engineering/spark/01-group by Options.md",
-    "data-engineering/spark/README.md",
-    "data-engineering/README.md",
-    "README.md"
+    "data-engineering/spark/QA with AI/03-RelationalGroupedDataset vs KeyValueGroupedDataset.md",
+    "data-engineering/spark/QA with AI/02-group by Options for Structured Streaming.md"
   ]
 }
