@@ -1,4 +1,3 @@
-# spark
 # data-engineering
 
 * [book](./book/README.md)

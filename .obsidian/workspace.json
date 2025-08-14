@@ -199,6 +199,7 @@
   },
   "active": "75f7b9efb65f0d61",
   "lastOpenFiles": [
+    "data-engineering/spark/README.md",
     "data-engineering/spark/QA with AI/00-Questions.md",
     "data-engineering/spark/qa-with-ai/README.md",
     "data-engineering/spark/qa-with-ai/09-options for agg() function on KeyValueGroupedDataSet.md",
@@ -221,7 +222,6 @@
     "data-engineering/spark/QA with AI",
     "data-engineering/spark/QA with AI/09-options for agg() function on KeyValueGroupedDataSet.md",
     "data-engineering/spark/QA with AI/06-Aggregator.md",
-    "data-engineering/spark/README.md",
     "data-engineering/spark/QA with AI/08-compare agg() functions on KeyValueGroupedDataset.md",
     "data-engineering/spark/QA with AI/07-efficient shuffle with Aggregator.md",
     "data-engineering/spark/QA with AI/05-Concept of group.md",
