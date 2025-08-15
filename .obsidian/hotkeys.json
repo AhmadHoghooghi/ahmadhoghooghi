@@ -7,5 +7,15 @@
       ],
       "key": "E"
     }
+  ],
+  "workspace:undo-close-pane": [],
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
   ]
 }

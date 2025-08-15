@@ -1,6 +1,6 @@
-- [x] #q one of methods does support windowing and watermarking? ✅ 2025-08-14
+- [x]  one of methods does support windowing and watermarking? ✅ 2025-08-14
 
-- [ ] #q is options for custom aggregations?
+- [ ]  is options for custom aggregations?
 
 - [ ] what is role of reduce functions? where in the general big picture they fit? compare theire functions in different scenarios, batch and structured streaming, in related to working with dataframe and dataset
 
@@ -21,6 +21,9 @@
 - [ ] input of agg is TypedCoulumn this leads me to the concept that argument is not only custom aggregator, what are other options?
 - [ ] does spark need application.jar to be available to workers also? or just making it accessible to master suffice? if it is requited to be accessible to workers why is it required to be serializable?
 
+- [ ] Move documents from my-tries repository here for spark
 
 
+```tasks
 
+```
